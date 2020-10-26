@@ -2049,7 +2049,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/overlay.png");
+			
 			border-radius: 0.35em;
 			content: '';
 			display: block;
@@ -2098,7 +2098,7 @@ input, select, textarea {
 				opacity: 1.0;
 			}
 
-		.image img {
+        .image img {
 			border-radius: 0.35em;
 			display: block;
 		}
